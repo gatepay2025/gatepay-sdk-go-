@@ -1,0 +1,1 @@
+订单信息查询 [/v1/pay/order/query](https://www.gate.com/docs/miniapp/manual/zh_CN/#_3-4-5-%E8%AE%A2%E5%8D%95%E7%8A%B6%E6%80%81%E6%9F%A5%E8%AF%A2)
